@@ -8,9 +8,4 @@ image = cv2.imread(imgpath)
 
 analyze = DeepFace.analyze(image,actions=['emotion','age','race'])  #here the first parameter is the image we want to analyze #the second one there is the action
 alter = analyze['age']
-emotion = analyze['dominant_emotion']
-print(type(alter))
-print(type(emotion))
-print(analyze['race'])
-print(alter)
-print(emotion)
+# emotion = analyze['dominant_emotion']
