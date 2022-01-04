@@ -2,7 +2,7 @@ import cv2
 from deepface import DeepFace
 from pathlib import Path
 
-pathlist = Path('.\\data\\emotion\\test\\surprised').rglob('*.png')
+pathlist = Path('.\\data\\emotion\\test\\neutral').rglob('*.png')
 pictures = []
 for path in pathlist:
     path_in_str = str(path)
@@ -17,7 +17,8 @@ for i in pictures:
 
     try:
         analyze = DeepFace.analyze(image, actions=['emotion'], enforce_detection=True)
-        if analyze['dominant_emotion'] == "surprise":
+        print(analyze["dominant_emotion"])
+        if analyze['dominant_emotion'] == "neutral":
             correct += 1
         else:
             false += 1
