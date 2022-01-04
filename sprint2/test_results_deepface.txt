@@ -1,0 +1,48 @@
+--- Age ---
+
+22 (+-5)
+	Correct	41
+	False	32
+	No Face	66
+
+25-30 (+-5)
+	Correct	1015
+	False	24
+	No Face	1456
+
+42-48 (+-5)
+	Correct	44
+	False	476
+	No Face	919
+
+60-98 (+-5)
+	Correct	0
+	False	650
+	No Face	1999
+
+--- Emotion ---
+
+happy
+	Correct	156
+	False	40
+	No Face	1578
+
+neutral
+	Correct	62
+	False	57
+	No Face	1114
+
+sad
+	Correct	23
+	False	29
+	No Face	1195
+
+fear
+	Correct	11
+	False	31
+	No Face	982
+
+angry
+	Correct	17
+	False	54
+	No Face	887
