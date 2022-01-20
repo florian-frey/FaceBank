@@ -1,5 +1,6 @@
-# FaceBank ![Logo der Anlagebank WBHD](logo.png)
+# FaceBank
 
+![Logo der Anlagebank WBHD](logo.png)
 Lasse Deine Emotionen entscheiden, welches Produkt für Dich das richtige ist!🚀  
 Mit der FaceBank-App wird die Finanzwelt revolutioniert! Anhand von Alter und Emotion, welche wir aus einem einzelnen Bild auslesen, wird dem Kunden in unserer App ein für ihn individuell passendes Finanzprodukt angeboten.
 
@@ -36,7 +37,7 @@ Projektmitglieder:
 ┣ 📜Vorgaben_Abgabe.pptx  
 ┗ 📜Vorgaben_Entwurf_Projekt_Business.pptx
 
-## Instagram ![Instagram Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/240px-Instagram_logo_2016.svg.png)
+## Instagram
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/240px-Instagram_logo_2016.svg.png" width="100" height="100">
 Besuche auch gerne unseren [Instagram-Account](https://www.instagram.com/facebankwbhd/)!
