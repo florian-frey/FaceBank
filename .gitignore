@@ -1,2 +1,5 @@
-data/
 code/.ipynb_checkpoints
+code/test.ipynb
+data/adience/
+data/kaggle/
+data/MAAD-face/
